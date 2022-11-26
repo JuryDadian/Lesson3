@@ -20,6 +20,8 @@ public class Class1_1 {
             case 9, 10, 11 :
                 System.out.println("Осень");
                 break;
+            default:
+                System.out.println("Нет такого месяца в году!");
         }
     }
 }
